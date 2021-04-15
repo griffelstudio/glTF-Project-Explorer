@@ -1363,9 +1363,9 @@
   "outputs" : [ "glTF 2.0" ]
 }, {
   "name" : "glTF Exporter add-in for Autodesk Revit",
-  "description" : "Paid add-in to export glTF from Autodesk Revit 2019 or later",
+  "description" : "Paid add-in to export glTF from Autodesk Revit 2018 or later",
   "link" : "https://apps.autodesk.com/RVT/en/Detail/Index?id=8451869436709222290",
-  "task" : [ "import", "export" ],
+  "task" : [ "export" ],
   "inputs" : [ "Multiple" ],
   "outputs" : [ "glTF 2.0" ]
 }, {
